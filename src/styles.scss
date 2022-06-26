@@ -1,1 +1,36 @@
 /* You can add global styles to this file, and also import other style files */
+
+* {
+  margin: 0;
+  padding: 0;
+
+  font-size: 10px;
+}
+
+h1 {
+  font-size: $font-size-48;
+}
+
+h2 {
+  font-size: $font-size-36;
+}
+
+h3 {
+  font-size: $font-size-30;
+}
+
+h4 {
+  font-size: $font-size-24;
+}
+
+h5 {
+  font-size: $font-size-18;
+}
+
+h6 {
+  font-size: $font-size-16;
+}
+
+body {
+  font-size: $font-size-14;
+}
